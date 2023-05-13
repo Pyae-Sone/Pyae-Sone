@@ -21,4 +21,4 @@ Here are some of the technologies and tools that I work with:
 
 🌟 Fun Fact
 
-    Did you know that the first computer virus was created in 1971 by a programmer named Bob Thomas? It was called the "Creeper" virus, and it      was designed to travel between DEC PDP-10 mainframe computers running the TENEX operating system. 😱
+    Did you know that the first computer virus was created in 1971 by a programmer named Bob Thomas? It was called the "Creeper" virus, and it was designed to travel between DEC PDP-10 mainframe computers running the TENEX operating system. 😱
